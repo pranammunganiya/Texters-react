@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Texters-react/static/css/main.49f7826f.css",
+    "main.js": "/Texters-react/static/js/main.217f360d.js",
+    "static/js/453.35732811.chunk.js": "/Texters-react/static/js/453.35732811.chunk.js",
+    "index.html": "/Texters-react/index.html",
+    "main.49f7826f.css.map": "/Texters-react/static/css/main.49f7826f.css.map",
+    "main.217f360d.js.map": "/Texters-react/static/js/main.217f360d.js.map",
+    "453.35732811.chunk.js.map": "/Texters-react/static/js/453.35732811.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f7826f.css",
+    "static/js/main.217f360d.js"
+  ]
+}
